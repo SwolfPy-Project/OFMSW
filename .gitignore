@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+Comparative_LCA/*
+!Comparative_LCA/*.ipynb
+
+
+Optimization/*
+!Optimization/*.ipynb
