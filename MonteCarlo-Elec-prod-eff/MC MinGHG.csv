@@ -1,0 +1,25 @@
+,Value,Unit
+Diversion,86.08524813065901,%
+GWP,118.02706202817309,kg CO2 eq/Mg
+Operation Cost,47.0649567293965,$/Mg
+Capital cost,39.95771082847825,$/Mg
+Total cost,87.02266755787475,$/Mg
+CED,-8315.285260998375,MJ eq/Mg
+Acidification,-5.125215512778514,kg SO2 eq/Mg
+Eutrophication,-1.3142071597120808,kg N eq/Mg
+Photochemical smog,-16.615803837377005,kg O3 eq/Mg
+Ecotoxicity,-5620.675295507359,CTU/Mg
+Human toxicity,-0.0002265202779952089,CTU/Mg
+SF,306600,Mg/yr
+MF,102200,Mg/yr
+COM,52595,Mg/yr
+LF,64202,Mg/yr
+WTE,70289,Mg/yr
+RDF,326421,Mg/yr
+GC,267832,Mg/yr
+Composting,0,Mg/yr
+AD,0,Mg/yr
+HC,0,Mg/yr
+AnF,19969,Mg/yr
+SS_MRF,115005,Mg/yr
+Reprocessing,105244,Mg/yr

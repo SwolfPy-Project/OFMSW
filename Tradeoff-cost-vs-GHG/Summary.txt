@@ -1,0 +1,160 @@
+
+********  Config *********
+Time: 2022-02-12 & 14:00:24
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C70 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 0:51:16
+Average time per iteration: 0:07:43
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-12 & 17:05:08
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C50 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 1:21:37
+Average time per iteration: 0:08:08
+Successful iterations: 42
+Number of best iterations: 42
+Number of >95 iterations: 42
+
+
+********  Config *********
+Time: 2022-02-12 & 20:23:22
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C60 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 0:58:59
+Average time per iteration: 0:08:20
+Successful iterations: 49
+Number of best iterations: 49
+Number of >95 iterations: 49
+
+
+********  Config *********
+Time: 2022-02-13 & 02:13:01
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C40 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 0:44:20
+Average time per iteration: 0:06:45
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-13 & 11:16:00
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C80 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 0:51:06
+Average time per iteration: 0:07:28
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-13 & 14:08:18
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+********  Config *********
+Time: 2022-02-13 & 14:10:56
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:25:27
+Average time per iteration: 0:03:45
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-16 & 10:17:02
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C40 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 0:47:10
+Average time per iteration: 0:07:04
+Successful iterations: 49
+Number of best iterations: 49
+Number of >95 iterations: 49
+
+
+********  Config *********
+Time: 2022-02-16 & 11:34:09
+Initial guess generation: LHS
+N iter: 100
+N proc: 8
+timeout: 700
+
+
+
+********  MinGHG-C40 - Summary *********
+Number of decision variables: 40
+Number of constraints: 17
+Total time: 1:28:47
+Average time per iteration: 0:06:48
+Successful iterations: 99
+Number of best iterations: 99
+Number of >95 iterations: 99
+

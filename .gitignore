@@ -128,10 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-Comparative_LCA/*
-!Comparative_LCA/*.ipynb
+*.pickle
 
 
-Optimization/*
-!Optimization/*.ipynb
+

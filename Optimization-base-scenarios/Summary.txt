@@ -1,0 +1,330 @@
+********  Config *********
+Time: 2022-02-09 & 17:12:52
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinCost - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:23:00
+Average time per iteration: 0:03:23
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-09 & 18:26:45
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:25:08
+Average time per iteration: 0:03:43
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-09 & 19:23:02
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG_SO - Summary *********
+Number of decision variables: 34
+Number of constraints: 16
+Total time: 0:15:34
+Average time per iteration: 0:02:14
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-09 & 20:38:13
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG_SO - Summary *********
+Number of decision variables: 34
+Number of constraints: 16
+Total time: 0:15:22
+Average time per iteration: 0:02:12
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-09 & 21:33:55
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:25:37
+Average time per iteration: 0:03:48
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-09 & 22:48:11
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+********  Config *********
+Time: 2022-02-09 & 23:27:39
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:25:07
+Average time per iteration: 0:03:43
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 00:20:09
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinCost-SO - Summary *********
+Number of decision variables: 34
+Number of constraints: 16
+Total time: 0:12:56
+Average time per iteration: 0:01:53
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 00:52:21
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinCost-Div30 - Summary *********
+Number of decision variables: 16
+Number of constraints: 7
+Total time: 0:26:45
+Average time per iteration: 0:03:58
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 01:23:56
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinCost-Div35 - Summary *********
+Number of decision variables: 16
+Number of constraints: 7
+Total time: 0:23:18
+Average time per iteration: 0:03:27
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 09:26:45
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoGC-AnF - Summary *********
+Number of decision variables: 30
+Number of constraints: 13
+Total time: 0:15:48
+Average time per iteration: 0:02:16
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 09:47:54
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoGC-AnF-SO - Summary *********
+Number of decision variables: 24
+Number of constraints: 13
+Total time: 0:09:39
+Average time per iteration: 0:01:21
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 09:59:49
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoGC-AnF-SO - Summary *********
+Number of decision variables: 24
+Number of constraints: 13
+Total time: 0:09:21
+Average time per iteration: 0:01:19
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 10:14:16
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoGC-AnF-SO - Summary *********
+Number of decision variables: 24
+Number of constraints: 13
+Total time: 0:09:31
+Average time per iteration: 0:01:19
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 10:27:15
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoGC-AnF-SO - Summary *********
+Number of decision variables: 23
+Number of constraints: 13
+Total time: 0:08:08
+Average time per iteration: 0:01:08
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 10:52:30
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoGC-AnF - Summary *********
+Number of decision variables: 29
+Number of constraints: 13
+Total time: 0:14:54
+Average time per iteration: 0:02:11
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 17:34:11
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:25:05
+Average time per iteration: 0:03:41
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-10 & 18:21:20
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG - Summary *********
+Number of decision variables: 40
+Number of constraints: 16
+Total time: 0:25:29
+Average time per iteration: 0:03:43
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+

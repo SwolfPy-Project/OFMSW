@@ -1,0 +1,103 @@
+
+********  Config *********
+Time: 2022-02-21 & 10:19:01
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 500
+
+
+********  Config *********
+Time: 2022-02-21 & 10:19:58
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 500
+
+
+
+********  MinCost-Div40 - Summary *********
+Number of decision variables: 16
+Number of constraints: 7
+Total time: 0:22:24
+Average time per iteration: 0:03:20
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-21 & 11:57:37
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoThermal - Summary *********
+Number of decision variables: 16
+Number of constraints: 6
+Total time: 0:13:41
+Average time per iteration: 0:01:59
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-21 & 12:17:04
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoThermal-SO - Summary *********
+Number of decision variables: 10
+Number of constraints: 6
+Total time: 0:04:22
+Average time per iteration: 0:00:33
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-21 & 12:29:07
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoThermal-Div35 - Summary *********
+Number of decision variables: 16
+Number of constraints: 7
+Total time: 0:30:10
+Average time per iteration: 0:04:12
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
+
+********  Config *********
+Time: 2022-02-21 & 13:12:03
+Initial guess generation: LHS
+N iter: 50
+N proc: 8
+timeout: 400
+
+
+
+********  MinGHG-NoThermal-Div40 - Summary *********
+Number of decision variables: 16
+Number of constraints: 7
+Total time: 0:25:51
+Average time per iteration: 0:03:49
+Successful iterations: 50
+Number of best iterations: 50
+Number of >95 iterations: 50
+
