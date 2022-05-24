@@ -1,0 +1,40 @@
+
+********  Config *********
+Time: 2021-12-20 & 15:28:01
+Initial guess generation: LHS
+N iter: 100
+N proc: 8
+
+
+
+********  With_AD - Summary *********
+Number of decision variables: 24
+Number of constraints: 6
+Total time: 0:36:01
+Average time per iteration: 0:02:44
+Successful iterations: 100
+Number of best iterations: 100
+Number of >95 iterations: 100
+
+
+
+********  With_AD_Div30 - Summary *********
+Number of decision variables: 24
+Number of constraints: 7
+Total time: 1:24:45
+Average time per iteration: 0:06:32
+Successful iterations: 100
+Number of best iterations: 100
+Number of >95 iterations: 100
+
+
+
+********  With_AD_Div40 - Summary *********
+Number of decision variables: 24
+Number of constraints: 7
+Total time: 3:11:49
+Average time per iteration: 0:04:27
+Successful iterations: 5
+Number of best iterations: 5
+Number of >95 iterations: 5
+
